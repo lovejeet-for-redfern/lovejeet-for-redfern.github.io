@@ -33,8 +33,7 @@ export default function Contact() {
                     Peterborough, ON K9J 6X5
                   </p>
                   <a
-                    /* --- THIS LINK IS NOW FIXED --- */
-                    href="https://www.google.com/maps/dir/?api=1&destination=2813%20Lakefield%20Rd%2C%20Peterborough%2C%20ON%20K9J%206X5"
+                    href="https://www.google.com/maps/search/?api=1&query=2813+Lakefield+Rd,+Peterborough,+ON+K9J+6X5"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block mt-3 text-lime-400 hover:text-lime-300 transition-colors font-medium"
@@ -105,8 +104,7 @@ export default function Contact() {
             <div className="bg-white/10 backdrop-blur-sm rounded-2xl overflow-hidden border border-white/20 shadow-2xl">
               <div className="aspect-video bg-forest-600">
                 <iframe
-                  /* --- THIS MAP IFRAME IS NOW FIXED --- */
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2862.036666838848!2d-78.2913386844857!3d44.3649669818815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd7b6a18274a491%3A0x6b1070868f76088!2s2813%20Lakefield%20Rd%2C%20Peterborough%2C%20ON%20K9J%206X5%2C%20Canada!5e0!3m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2854.7!2d-78.3!3d44.35!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDTCsDIxJzAwLjAiTiA3OMKwMTgnMDAuMCJX!5e0!3m2!1sen!2sca!4v1234567890"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
